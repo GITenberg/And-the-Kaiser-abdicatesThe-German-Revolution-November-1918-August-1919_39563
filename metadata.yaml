@@ -1,0 +1,44 @@
+_repo: And-the-Kaiser-abdicatesThe-German-Revolution-November-1918-August-1919_39563
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Holcombe, Arthur N. (Arthur Norman)
+    aliases:
+    - Holcombe, A. N. (Arthur Norman)
+    - Holcombe, Arthur Norman
+    birthdate: 1884
+    deathdate: 1977
+    gutenberg_agent_id: '41804'
+    url: http://www.gutenberg.org/2009/agents/41804
+  - agent_name: Munro, William Bennett
+    birthdate: 1875
+    deathdate: 1957
+    gutenberg_agent_id: '1530'
+    url: http://www.gutenberg.org/2009/agents/1530
+    wikipedia: http://en.wikipedia.org/wiki/William_B._Munro
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bouton, S. Miles (Stephen Miles)
+    alias: Bouton, Stephen Miles
+    birthdate: 1876
+    gutenberg_agent_id: '40085'
+    url: http://www.gutenberg.org/2009/agents/40085
+description: ''
+gutenberg_issued: '2012-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39563'
+  lccn: '21018520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Politics and government'
+- !lcsh 'Germany -- History -- Revolution, 1918'
+- !lcc 'DD'
+title: 'And the Kaiser abdicates: The German Revolution November 1918-August 1919'
+url: http://www.gutenberg.org/ebooks/39563
